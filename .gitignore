@@ -28,4 +28,4 @@ dist-ssr
 amplify_outputs*
 amplifyconfiguration*
 
-amplify_outputs.json
+AWS-Amplify/amplify_outputs.json
